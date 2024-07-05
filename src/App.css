@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Username {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Usercolored,.Useremail {
+  color: #000aef;
+}
